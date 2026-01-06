@@ -1,0 +1,13 @@
+{
+  "videos": [
+    {
+      "id": "Моё видео_Я",
+      "name": "Моё видео",
+      "author": "Я",
+      "description": "Описание видео",
+      "fileName": "Мо__видео_Я_lrvid",
+      "uploaded": "2026-01-06T11:25:02.488Z",
+      "channel": "default"
+    }
+  ]
+}
