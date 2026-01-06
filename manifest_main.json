@@ -1,4 +1,14 @@
 {
-  "videos": [],
+  "videos": [
+    {
+      "id": "first_video_main",
+      "name": "first_video",
+      "author": "main",
+      "description": "description",
+      "fileName": "first_video_main_lrvid",
+      "uploaded": "2026-01-06T10:16:40.306Z",
+      "channel": "main"
+    }
+  ],
   "created": "2026-01-06T10:16:25.455Z"
 }
